@@ -1,0 +1,55 @@
+body{
+	
+	background-image: url("../img/8895.jpg");
+	background-repeat: repeat-x;
+}
+
+h1{
+
+	margin-top: -47px;
+}
+
+.style_radius{
+
+	border-radius: 5px;
+}
+.contenair{
+
+	display: inline-flex;
+	padding-left: 34%;
+}
+
+.signe{
+
+	padding-top: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.position{
+	
+}
+.separation{
+	clear: both;
+    position: absolute;
+    margin-top: -19px;
+    margin-left: 371px;
+    width: 13px;
+    background: black;
+}
+.info{
+	background-color: green;
+	border-radius: 23px;
+	text-align: justify;
+	width: 46%;
+    margin-left: 29%;
+}
+.souligne{
+    text-decoration: underline;
+}
+
+.zBarre{
+	text-decoration: overline;
+}
+#position{
+	margin-left: 28%;
+}
